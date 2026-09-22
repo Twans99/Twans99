@@ -1,4 +1,4 @@
-# Hi 👋, I'm Twan, a Software Engineer and Backend Developer
+# Hi 👋, I'm Twan, a Software Engineer, Backend Developer
 ### 💫 About Me:
  
  - I’m currently acquiring skills in React and Next.js
