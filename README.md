@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Twan, a Software Engineer and Backend Developer
+### 💫 About Me:
+ 
+ - I’m currently acquiring skills in React and Next.js
+ - Always exploring the latest trends in web development.
+ - Fun fact: I like tea more than coffee. I always try new tools or methods to use AI in daily work
+ - Always up for a buffet and yakiniku!
 
-<!--
-**Twans99/Twans99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack:
+![My Skills](https://skillicons.dev/icons?i=go,python,js,ts,html,css,tailwind,postgres,mysql,redis,mongodb,nestjs,express,graphql,docker,postman,git,github)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me!
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/supawit-phimonjit-01b4b9234/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
